@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hung
+=======
+add file
+>>>>>>> dev
